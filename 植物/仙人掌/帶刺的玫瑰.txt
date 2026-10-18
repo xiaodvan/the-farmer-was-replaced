@@ -1,0 +1,370 @@
+while True:
+  move(North)
+  if can_harvest():
+	harvest()
+  plant(Entities.Cactus)
+  move(North)
+  if can_harvest():
+	harvest()
+  plant(Entities.Cactus)
+  move(North)
+  if can_harvest():
+	harvest()
+  plant(Entities.Cactus)
+  move(North)
+  if can_harvest():
+	harvest()
+  plant(Entities.Cactus)
+  move(North)
+  if can_harvest():
+	harvest()
+  plant(Entities.Cactus)
+  move(North)
+  if can_harvest():
+	harvest()
+  plant(Entities.Cactus)
+  move(North)
+  if can_harvest():
+	harvest()
+  plant(Entities.Cactus)
+  move(North)
+  if can_harvest():
+	harvest()
+  plant(Entities.Cactus)
+  move(East)
+  if can_harvest():
+	harvest()
+  plant(Entities.Cactus)
+  
+  move(North)
+  if can_harvest():
+	harvest()
+  plant(Entities.Cactus)
+  move(North)
+  if can_harvest():
+	harvest()
+  plant(Entities.Cactus)
+  move(North)
+  if can_harvest():
+	harvest()
+  plant(Entities.Cactus)
+  move(North)
+  if can_harvest():
+	harvest()
+  plant(Entities.Cactus)
+  move(North)
+  if can_harvest():
+	harvest()
+  plant(Entities.Cactus)
+  move(North)
+  if can_harvest():
+	harvest()
+  plant(Entities.Cactus)
+  move(North)
+  if can_harvest():
+	harvest()
+  plant(Entities.Cactus)
+  move(North)
+  if can_harvest():
+	harvest()
+  plant(Entities.Cactus)
+  move(East)
+  if can_harvest():
+	harvest()
+  plant(Entities.Cactus)
+  
+  move(North)
+  if can_harvest():
+	harvest()
+  plant(Entities.Cactus)
+  move(North)
+  if can_harvest():
+	harvest()
+  plant(Entities.Cactus)
+  move(North)
+  if can_harvest():
+	harvest()
+  plant(Entities.Cactus)
+  move(North)
+  if can_harvest():
+	harvest()
+  plant(Entities.Cactus)
+  move(North)
+  if can_harvest():
+	harvest()
+  plant(Entities.Cactus)
+  move(North)
+  if can_harvest():
+	harvest()
+  plant(Entities.Cactus)
+  move(North)
+  if can_harvest():
+	harvest()
+  plant(Entities.Cactus)
+  move(North)
+  if can_harvest():
+	harvest()
+  plant(Entities.Cactus)
+  move(East)
+  if can_harvest():
+	harvest()
+  plant(Entities.Cactus)
+  
+  move(North)
+  if can_harvest():
+	harvest()
+  plant(Entities.Cactus)
+  move(North)
+  if can_harvest():
+	harvest()
+  plant(Entities.Cactus)
+  move(North)
+  if can_harvest():
+	harvest()
+  plant(Entities.Cactus)
+  move(North)
+  if can_harvest():
+	harvest()
+  plant(Entities.Cactus)
+  move(North)
+  if can_harvest():
+	harvest()
+  plant(Entities.Cactus)
+  move(North)
+  if can_harvest():
+	harvest()
+  plant(Entities.Cactus)
+  move(North)
+  if can_harvest():
+	harvest()
+  plant(Entities.Cactus)
+  move(North)
+  if can_harvest():
+	harvest()
+  plant(Entities.Cactus)
+  move(East)
+  if can_harvest():
+	harvest()
+  plant(Entities.Cactus)
+  
+  move(North)
+  if can_harvest():
+	harvest()
+  plant(Entities.Cactus)
+  move(North)
+  if can_harvest():
+	harvest()
+  plant(Entities.Cactus)
+  move(North)
+  if can_harvest():
+	harvest()
+  plant(Entities.Cactus)
+  move(North)
+  if can_harvest():
+	harvest()
+  plant(Entities.Cactus)
+  move(North)
+  if can_harvest():
+	harvest()
+  plant(Entities.Cactus)
+  move(North)
+  if can_harvest():
+	harvest()
+  plant(Entities.Cactus)
+  move(North)
+  if can_harvest():
+	harvest()
+  plant(Entities.Cactus)
+  move(North)
+  if can_harvest():
+	harvest()
+  plant(Entities.Cactus)
+  move(East)
+  if can_harvest():
+	harvest()
+  plant(Entities.Cactus)
+  
+  move(North)
+  if can_harvest():
+	harvest()
+  plant(Entities.Cactus)
+  move(North)
+  if can_harvest():
+	harvest()
+  plant(Entities.Cactus)
+  move(North)
+  if can_harvest():
+	harvest()
+  plant(Entities.Cactus)
+  move(North)
+  if can_harvest():
+	harvest()
+  plant(Entities.Cactus)
+  move(North)
+  if can_harvest():
+	harvest()
+  plant(Entities.Cactus)
+  move(North)
+  if can_harvest():
+	harvest()
+  plant(Entities.Cactus)
+  move(North)
+  if can_harvest():
+	harvest()
+  plant(Entities.Cactus)
+  move(North)
+  if can_harvest():
+	harvest()
+  plant(Entities.Cactus)
+  move(East)
+  if can_harvest():
+	harvest()
+  plant(Entities.Cactus)
+  
+  move(North)
+  if can_harvest():
+	harvest()
+  plant(Entities.Cactus)
+  move(North)
+  if can_harvest():
+	harvest()
+  plant(Entities.Cactus)
+  move(North)
+  if can_harvest():
+	harvest()
+  plant(Entities.Cactus)
+  move(North)
+  if can_harvest():
+	harvest()
+  plant(Entities.Cactus)
+  move(North)
+  if can_harvest():
+	harvest()
+  plant(Entities.Cactus)
+  move(North)
+  if can_harvest():
+	harvest()
+  plant(Entities.Cactus)
+  move(North)
+  if can_harvest():
+	harvest()
+  plant(Entities.Cactus)
+  move(North)
+  if can_harvest():
+	harvest()
+  plant(Entities.Cactus)
+  move(East)
+  if can_harvest():
+	harvest()
+  plant(Entities.Cactus)
+  
+  move(North)
+  if can_harvest():
+	harvest()
+  plant(Entities.Cactus)
+  move(North)
+  if can_harvest():
+	harvest()
+  plant(Entities.Cactus)
+  move(North)
+  if can_harvest():
+	harvest()
+  plant(Entities.Cactus)
+  move(North)
+  if can_harvest():
+	harvest()
+  plant(Entities.Cactus)
+  move(North)
+  if can_harvest():
+	harvest()
+  plant(Entities.Cactus)
+  move(North)
+  if can_harvest():
+	harvest()
+  plant(Entities.Cactus)
+  move(North)
+  if can_harvest():
+	harvest()
+  plant(Entities.Cactus)
+  move(North)
+  if can_harvest():
+	harvest()
+  plant(Entities.Cactus)
+  move(East)
+  if can_harvest():
+	harvest()
+  plant(Entities.Cactus)
+  
+  
+  move(North)
+  if can_harvest():
+	harvest()
+  plant(Entities.Cactus)
+  move(North)
+  if can_harvest():
+	harvest()
+  plant(Entities.Cactus)
+  move(North)
+  if can_harvest():
+	harvest()
+  plant(Entities.Cactus)
+  move(North)
+  if can_harvest():
+	harvest()
+  plant(Entities.Cactus)
+  move(North)
+  if can_harvest():
+	harvest()
+  plant(Entities.Cactus)
+  move(North)
+  if can_harvest():
+	harvest()
+  plant(Entities.Cactus)
+  move(North)
+  if can_harvest():
+	harvest()
+  plant(Entities.Cactus)
+  move(North)
+  if can_harvest():
+	harvest()
+  plant(Entities.Cactus)
+  move(East)
+  if can_harvest():
+	harvest()
+  plant(Entities.Cactus)
+  if can_harvest():
+	harvest()
+  plant(Entities.Cactus)
+  move(East)
+  if can_harvest():
+	harvest()
+  plant(Entities.Cactus)
+  move(East)
+  if can_harvest():
+	harvest()
+  plant(Entities.Cactus)
+  move(East)
+  if can_harvest():
+	harvest()
+  plant(Entities.Cactus)
+  move(East)
+  if can_harvest():
+	harvest()
+  plant(Entities.Cactus)
+  move(East)
+  if can_harvest():
+	harvest()
+  plant(Entities.Cactus)
+  move(East)
+  if can_harvest():
+	harvest()
+  plant(Entities.Cactus)
+  move(East)
+  if can_harvest():
+	harvest()
+  plant(Entities.Cactus)
+  move(East)
+  if can_harvest():
+	harvest()
+  plant(Entities.Cactus)
+  move(East)

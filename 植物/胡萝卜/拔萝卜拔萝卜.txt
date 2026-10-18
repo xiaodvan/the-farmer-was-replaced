@@ -1,0 +1,333 @@
+while True:
+  move(North)
+  if can_harvest():
+	harvest()
+  plant(Entities.Carrot)
+  move(North)
+  if can_harvest():
+	harvest()
+  plant(Entities.Carrot)
+  move(North)
+  if can_harvest():
+	harvest()
+  plant(Entities.Carrot)
+  move(North)
+  if can_harvest():
+	harvest()
+  plant(Entities.Carrot)
+  move(North)
+  if can_harvest():
+	harvest()
+  plant(Entities.Carrot)
+  move(North)
+  if can_harvest():
+	harvest()
+  plant(Entities.Carrot)
+  move(North)
+  if can_harvest():
+	harvest()
+  plant(Entities.Carrot)
+  move(North)
+  if can_harvest():
+	harvest()
+  plant(Entities.Carrot)
+  move(East)
+  if can_harvest():
+	harvest()
+  plant(Entities.Carrot)
+  
+  move(North)
+  if can_harvest():
+	harvest()
+  plant(Entities.Carrot)
+  move(North)
+  if can_harvest():
+	harvest()
+  plant(Entities.Carrot)
+  move(North)
+  if can_harvest():
+	harvest()
+  plant(Entities.Carrot)
+  move(North)
+  if can_harvest():
+	harvest()
+  plant(Entities.Carrot)
+  move(North)
+  if can_harvest():
+	harvest()
+  plant(Entities.Carrot)
+  move(North)
+  if can_harvest():
+	harvest()
+  plant(Entities.Carrot)
+  move(North)
+  if can_harvest():
+	harvest()
+  plant(Entities.Carrot)
+  move(North)
+  if can_harvest():
+	harvest()
+  plant(Entities.Carrot)
+  move(East)
+  if can_harvest():
+	harvest()
+  plant(Entities.Carrot)
+  
+  move(North)
+  if can_harvest():
+	harvest()
+  plant(Entities.Carrot)
+  move(North)
+  if can_harvest():
+	harvest()
+  plant(Entities.Carrot)
+  move(North)
+  if can_harvest():
+	harvest()
+  plant(Entities.Carrot)
+  move(North)
+  if can_harvest():
+	harvest()
+  plant(Entities.Carrot)
+  move(North)
+  if can_harvest():
+	harvest()
+  plant(Entities.Carrot)
+  move(North)
+  if can_harvest():
+	harvest()
+  plant(Entities.Carrot)
+  move(North)
+  if can_harvest():
+	harvest()
+  plant(Entities.Carrot)
+  move(North)
+  if can_harvest():
+	harvest()
+  plant(Entities.Carrot)
+  move(East)
+  if can_harvest():
+	harvest()
+  plant(Entities.Carrot)
+  
+  move(North)
+  if can_harvest():
+	harvest()
+  plant(Entities.Carrot)
+  move(North)
+  if can_harvest():
+	harvest()
+  plant(Entities.Carrot)
+  move(North)
+  if can_harvest():
+	harvest()
+  plant(Entities.Carrot)
+  move(North)
+  if can_harvest():
+	harvest()
+  plant(Entities.Carrot)
+  move(North)
+  if can_harvest():
+	harvest()
+  plant(Entities.Carrot)
+  move(North)
+  if can_harvest():
+	harvest()
+  plant(Entities.Carrot)
+  move(North)
+  if can_harvest():
+	harvest()
+  plant(Entities.Carrot)
+  move(North)
+  if can_harvest():
+	harvest()
+  plant(Entities.Carrot)
+  move(East)
+  if can_harvest():
+	harvest()
+  plant(Entities.Carrot)
+  
+  move(North)
+  if can_harvest():
+	harvest()
+  plant(Entities.Carrot)
+  move(North)
+  if can_harvest():
+	harvest()
+  plant(Entities.Carrot)
+  move(North)
+  if can_harvest():
+	harvest()
+  plant(Entities.Carrot)
+  move(North)
+  if can_harvest():
+	harvest()
+  plant(Entities.Carrot)
+  move(North)
+  if can_harvest():
+	harvest()
+  plant(Entities.Carrot)
+  move(North)
+  if can_harvest():
+	harvest()
+  plant(Entities.Carrot)
+  move(North)
+  if can_harvest():
+	harvest()
+  plant(Entities.Carrot)
+  move(North)
+  if can_harvest():
+	harvest()
+  plant(Entities.Carrot)
+  move(East)
+  if can_harvest():
+	harvest()
+  plant(Entities.Carrot)
+  
+  move(North)
+  if can_harvest():
+	harvest()
+  plant(Entities.Carrot)
+  move(North)
+  if can_harvest():
+	harvest()
+  plant(Entities.Carrot)
+  move(North)
+  if can_harvest():
+	harvest()
+  plant(Entities.Carrot)
+  move(North)
+  if can_harvest():
+	harvest()
+  plant(Entities.Carrot)
+  move(North)
+  if can_harvest():
+	harvest()
+  plant(Entities.Carrot)
+  move(North)
+  if can_harvest():
+	harvest()
+  plant(Entities.Carrot)
+  move(North)
+  if can_harvest():
+	harvest()
+  plant(Entities.Carrot)
+  move(North)
+  if can_harvest():
+	harvest()
+  plant(Entities.Carrot)
+  move(East)
+  if can_harvest():
+	harvest()
+  plant(Entities.Carrot)
+  
+  move(North)
+  if can_harvest():
+	harvest()
+  plant(Entities.Carrot)
+  move(North)
+  if can_harvest():
+	harvest()
+  plant(Entities.Carrot)
+  move(North)
+  if can_harvest():
+	harvest()
+  plant(Entities.Carrot)
+  move(North)
+  if can_harvest():
+	harvest()
+  plant(Entities.Carrot)
+  move(North)
+  if can_harvest():
+	harvest()
+  plant(Entities.Carrot)
+  move(North)
+  if can_harvest():
+	harvest()
+  plant(Entities.Carrot)
+  move(North)
+  if can_harvest():
+	harvest()
+  plant(Entities.Carrot)
+  move(North)
+  if can_harvest():
+	harvest()
+  plant(Entities.Carrot)
+  move(East)
+  if can_harvest():
+	harvest()
+  plant(Entities.Carrot)
+  
+  
+  move(North)
+  if can_harvest():
+	harvest()
+  plant(Entities.Carrot)
+  move(North)
+  if can_harvest():
+	harvest()
+  plant(Entities.Carrot)
+  move(North)
+  if can_harvest():
+	harvest()
+  plant(Entities.Carrot)
+  move(North)
+  if can_harvest():
+	harvest()
+  plant(Entities.Carrot)
+  move(North)
+  if can_harvest():
+	harvest()
+  plant(Entities.Carrot)
+  move(North)
+  if can_harvest():
+	harvest()
+  plant(Entities.Carrot)
+  move(North)
+  if can_harvest():
+	harvest()
+  plant(Entities.Carrot)
+  move(North)
+  if can_harvest():
+	harvest()
+  plant(Entities.Carrot)
+  move(East)
+  if can_harvest():
+	harvest()
+  plant(Entities.Carrot)
+  if can_harvest():
+	harvest()
+  plant(Entities.Carrot)
+  move(East)
+  if can_harvest():
+	harvest()
+  plant(Entities.Carrot)
+  move(East)
+  if can_harvest():
+	harvest()
+  plant(Entities.Carrot)
+  move(East)
+  if can_harvest():
+	harvest()
+  plant(Entities.Carrot)
+  move(East)
+  if can_harvest():
+	harvest()
+  plant(Entities.Carrot)
+  move(East)
+  if can_harvest():
+	harvest()
+  plant(Entities.Carrot)
+  move(East)
+  if can_harvest():
+	harvest()
+  plant(Entities.Carrot)
+  move(East)
+  if can_harvest():
+	harvest()
+  plant(Entities.Carrot)
+  move(East)
+  if can_harvest():
+	harvest()
+  plant(Entities.Carrot)
+  move(East)

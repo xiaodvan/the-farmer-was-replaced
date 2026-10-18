@@ -1,0 +1,512 @@
+while True:
+		move(North)
+	# get_entity_type() ==  :
+		move(North)
+	#:
+		harvest( )
+	# get_entity_type() ==  :
+		move(North)
+
+	# get_entity_type() ==  :
+		move(North)
+	#:
+		harvest( )
+	# get_entity_type() ==  :
+		move(North)
+	# get_entity_type() ==  :
+		move(North)
+	#:
+		harvest( )
+	# get_entity_type() ==  :
+		move(North)
+		# get_entity_type() ==  :
+		move(North)
+	#:
+		harvest( )
+	# get_entity_type() ==  :
+		move(North)
+			#1
+		
+		move(East)
+	
+	
+		move(North)
+	# get_entity_type() ==  :
+		move(North)
+	#:
+		harvest( )
+	# get_entity_type() ==  :
+		move(North)
+		# get_entity_type() ==  :
+		move(North)
+	#
+		harvest( )
+	# get_entity_type() ==  :
+		move(North)
+		# get_entity_type() ==  :
+		move(North)
+	#:
+		harvest( )
+	# get_entity_type() ==  :
+		move(North)
+		# get_entity_type() ==  :
+		move(North)
+	#:
+		harvest( )
+	# get_entity_type() ==  :
+		move(North)
+			#1
+		
+		move(East)
+	
+		move(North)
+	# get_entity_type() ==  :
+		move(North)
+		# get_entity_type() ==  :
+		move(North)
+	# :
+		harvest( )
+	# get_entity_type() ==  :
+		move(North)
+	
+	# get_entity_type() ==  :
+		move(North)
+	#:
+		harvest( )
+	# get_entity_type() ==  :
+		move(North)
+		# get_entity_type() ==  :
+		move(North)
+	#:
+		harvest( )
+	# get_entity_type() ==  :
+		move(North)
+	# get_entity_type() ==  :
+		move(North)
+			#1
+		
+		move(East)
+
+		move(North)
+	# get_entity_type() ==  :
+		move(North)
+	#:
+		harvest( )
+	# get_entity_type() ==  :
+		move(North)
+
+	# get_entity_type() ==  :
+		move(North)
+	#:
+		harvest( )
+	# get_entity_type() ==  :
+		move(North)
+
+	# get_entity_type() ==  :
+		move(North)
+	#:
+		harvest( )
+	# get_entity_type() ==  :
+		move(North)
+
+	# get_entity_type() ==  :
+		move(North)
+	#:
+		harvest( )
+	# get_entity_type() ==  :
+		move(North)
+			#1
+		
+		move(East)
+	
+	
+	
+	
+		move(North)
+	# get_entity_type() ==  :
+		move(North)
+	# get_entity_type() ==  :
+		move(North)
+	#:
+		harvest( )
+	# get_entity_type() ==  :
+		move(North)
+
+	# get_entity_type() ==  :
+		move(North)
+	#:
+		harvest( )
+	# get_entity_type() ==  :
+		move(North)
+
+	# get_entity_type() ==  :
+		move(North)
+	#:
+		harvest( )
+	# get_entity_type() ==  :
+		move(North)
+
+	# get_entity_type() ==  :
+		move(North)
+			#1
+		
+		move(East)
+	
+	
+		move(North)
+	# get_entity_type() ==  :
+		move(North)
+	#:
+		harvest( )
+	# get_entity_type() ==  :
+		move(North)
+
+	# get_entity_type() ==  :
+		move(North)
+	#:
+		harvest( )
+	# get_entity_type() ==  :
+		move(North)
+
+	# get_entity_type() ==  :
+		move(North)
+	#:
+		harvest( )
+	# get_entity_type() ==  :
+		move(North)
+
+	# get_entity_type() ==  :
+		move(North)
+	#:
+		harvest( )
+	# get_entity_type() ==  :
+		move(North)
+			#1
+		
+		move(East)
+	
+		move(North)
+	# get_entity_type() ==  :
+		move(North)
+
+	# get_entity_type() ==  :
+		move(North)
+	# :
+		harvest( )
+	# get_entity_type() ==  :
+		move(North)
+
+	# get_entity_type() ==  :
+		move(North)
+	#:
+		harvest( )
+	# get_entity_type() ==  :
+		move(North)
+
+	# get_entity_type() ==  :
+		move(North)
+	#:
+		harvest( )
+	# get_entity_type() ==  :
+		move(North)
+
+	# get_entity_type() ==  :
+		move(North)
+			#1
+		
+		move(East)
+
+		move(North)
+	# get_entity_type() ==  :
+		move(North)
+	#:
+		harvest( )
+	# get_entity_type() ==  :
+		move(North)
+	
+		move(North)
+	#:
+		harvest( )
+	# get_entity_type() ==  :
+		move(North)
+
+	# get_entity_type() ==  :
+		move(North)
+	#:
+		harvest( )
+	# get_entity_type() ==  :
+		move(North)
+
+	# get_entity_type() ==  :
+		move(North)
+	#:
+		harvest( )
+	# get_entity_type() ==  :
+		move(North)
+			#1
+		
+		move(East)
+	
+	
+	
+		move(North)
+	# get_entity_type() ==  :
+		move(North)
+
+	# get_entity_type() ==  :
+		move(North)
+	# :
+		harvest( )
+	# get_entity_type() ==  :
+		move(North)
+
+	# get_entity_type() ==  :
+		move(North)
+	#:
+		harvest( )
+	# get_entity_type() ==  :
+		move(North)
+
+	# get_entity_type() ==  :
+		move(North)
+	#:
+		harvest( )
+	# get_entity_type() ==  :
+		move(North)
+
+	# get_entity_type() ==  :
+		move(North)
+			#1
+		
+		move(East)
+	
+	
+		move(North)
+	# get_entity_type() ==  :
+		move(North)
+	#:
+		harvest( )
+	# get_entity_type() ==  :
+		move(North)
+
+	# get_entity_type() ==  :
+		move(North)
+	#:
+		harvest( )
+	# get_entity_type() ==  :
+		move(North)
+
+	# get_entity_type() ==  :
+		move(North)
+	#:
+		harvest( )
+	# get_entity_type() ==  :
+		move(North)
+
+	# get_entity_type() ==  :
+		move(North)
+	#:
+		harvest( )
+	# get_entity_type() ==  :
+		move(North)
+			#1
+		
+		move(East)
+	
+		move(North)
+	# get_entity_type() ==  :
+		move(North)
+
+	# get_entity_type() ==  :
+		move(North)
+	# :
+		harvest( )
+	# get_entity_type() ==  :
+		move(North)
+
+	# get_entity_type() ==  :
+		move(North)
+	#:
+		harvest( )
+	# get_entity_type() ==  :
+		move(North)
+
+	# get_entity_type() ==  :
+		move(North)
+	#:
+		harvest( )
+	# get_entity_type() ==  :
+		move(North)
+
+	# get_entity_type() ==  :
+		move(North)
+			#1
+		
+		move(East)
+
+		move(North)
+	# get_entity_type() ==  :
+		move(North)
+
+	# get_entity_type() ==  :
+		move(North)
+	# :
+		harvest( )
+	# get_entity_type() ==  :
+		move(North)
+
+	# get_entity_type() ==  :
+		move(North)
+	#:
+		harvest( )
+	# get_entity_type() ==  :
+		move(North)
+
+	# get_entity_type() ==  :
+		move(North)
+	#:
+		harvest( )
+	# get_entity_type() ==  :
+		move(North)
+
+	# get_entity_type() ==  :
+		move(North)
+			#1
+		
+		move(East)
+	
+		
+	
+	
+		move(North)
+	# get_entity_type() ==  :
+		move(North)
+
+	# get_entity_type() ==  :
+		move(North)
+	# :
+		harvest( )
+	# get_entity_type() ==  :
+		move(North)
+
+	# get_entity_type() ==  :
+		move(North)
+	#:
+		harvest( )
+	# get_entity_type() ==  :
+		move(North)
+
+	# get_entity_type() ==  :
+		move(North)
+	#:
+		harvest( )
+	# get_entity_type() ==  :
+		move(North)
+
+	# get_entity_type() ==  :
+		move(North)
+			#1
+		
+		move(East)
+	
+	
+		move(North)
+	# get_entity_type() ==  :
+		move(North)
+
+	# get_entity_type() ==  :
+		move(North)
+	# :
+		harvest( )
+	# get_entity_type() ==  :
+		move(North)
+
+	# get_entity_type() ==  :
+		move(North)
+	#:
+		harvest( )
+	# get_entity_type() ==  :
+		move(North)
+
+	# get_entity_type() ==  :
+		move(North)
+	#:
+		harvest( )
+	# get_entity_type() ==  :
+		move(North)
+
+	# get_entity_type() ==  :
+		move(North)
+			#1
+		
+		move(East)
+	
+		move(North)
+	# get_entity_type() ==  :
+		move(North)
+
+	# get_entity_type() ==  :
+		move(North)
+	# :
+		harvest( )
+	# get_entity_type() ==  :
+		move(North)
+
+	# get_entity_type() ==  :
+		move(North)
+	#:
+		harvest( )
+	# get_entity_type() ==  :
+		move(North)
+
+	# get_entity_type() ==  :
+		move(North)
+	#:
+		harvest( )
+	# get_entity_type() ==  :
+		move(North)
+
+	# get_entity_type() ==  :
+		move(North)
+			#1
+		
+		move(East)
+
+		move(North)
+	# get_entity_type() ==  :
+		move(North)
+
+	# get_entity_type() ==  :
+		move(North)
+	# :
+		harvest( )
+	# get_entity_type() ==  :
+		move(North)
+
+	# get_entity_type() ==  :
+		move(North)
+	#:
+		harvest( )
+	# get_entity_type() ==  :
+		move(North)
+
+	# get_entity_type() ==  :
+		move(North)
+	#:
+		harvest( )
+	# get_entity_type() ==  :
+		move(North)
+
+	# get_entity_type() ==  :
+		move(North)
+			#1
+		
+		move(East)
+	
+		can_harvest()
+		harvest()
+		harvest()
+
+	
+
+	

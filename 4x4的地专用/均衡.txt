@@ -1,0 +1,95 @@
+while True:
+  move(North)
+  
+  can_harvest()
+  harvest()
+
+  plant(Entities.Carrot)
+  
+  move(North)
+  can_harvest()
+  harvest()
+
+  plant(Entities.Carrot)
+  
+  move(North)
+  can_harvest()
+  harvest()
+
+  plant(Entities.Carrot)
+  
+  move(East)
+  can_harvest()
+  harvest()
+  plant(Entities.Carrot)
+  
+  move(South)
+  can_harvest()
+  harvest()
+  plant(Entities.Carrot)
+
+  move(South)
+  can_harvest()
+  harvest()
+  plant(Entities.Bush)
+  
+  move(South)
+  can_harvest()
+  harvest()
+  plant(Entities.Bush)
+  
+  move(East)
+  can_harvest()
+  harvest()
+  plant(Entities.Bush)
+  
+  
+  move(North)
+  can_harvest()
+  harvest()
+  plant(Entities.Bush)
+
+  move(North)
+  can_harvest()
+  harvest()
+  plant(Entities.Bush)
+
+  move(North)
+  can_harvest()
+  harvest()
+  plant(Entities.Bush)
+  
+  move(East)
+  can_harvest()
+  harvest()
+ 
+  move(North)
+  can_harvest()
+  harvest()
+
+  
+  move(North)
+  can_harvest()
+  harvest()
+
+ 
+  move(North)
+  can_harvest()
+  harvest()
+
+  
+  move(North)
+  can_harvest()
+  harvest()
+  
+  move(North)
+  move(West)
+  move(West)
+  move(West)
+  harvest()
+  
+  plant(Entities.Bush)
+  do_a_flip()
+  do_a_flip()
+  do_a_flip()
+  do_a_flip()

@@ -1,0 +1,579 @@
+while True:
+	move(North)
+	if get_entity_type() == Entities.Pumpkin:
+		move(North)
+	else:
+		plant(Entities.Pumpkin)
+	if get_entity_type() == Entities.Pumpkin:
+		move(North)
+	else :
+		plant(Entities.Pumpkin)
+	if get_entity_type() == Entities.Pumpkin:
+			move(North)
+	else:
+		plant(Entities.Pumpkin)
+	if get_entity_type() == Entities.Pumpkin:
+			move(North)
+	else:
+		plant(Entities.Pumpkin)
+	if get_entity_type() == Entities.Pumpkin:
+			move(North)
+	else:
+		plant(Entities.Pumpkin)
+	if get_entity_type() == Entities.Pumpkin:
+			move(North)
+	else:
+		plant(Entities.Pumpkin)
+	if get_entity_type() == Entities.Pumpkin:
+			move(North)
+	else:
+		plant(Entities.Pumpkin)
+	if get_entity_type() == Entities.Pumpkin:
+			move(North)
+			#1
+		
+	move(East)
+	
+	
+	move(North)
+	if get_entity_type() == Entities.Pumpkin:
+		move(North)
+	else:
+		plant(Entities.Pumpkin)
+	if get_entity_type() == Entities.Pumpkin:
+		move(North)
+	else :
+		plant(Entities.Pumpkin)
+	if get_entity_type() == Entities.Pumpkin:
+			move(North)
+	else:
+		plant(Entities.Pumpkin)
+	if get_entity_type() == Entities.Pumpkin:
+			move(North)
+	else:
+		plant(Entities.Pumpkin)
+	if get_entity_type() == Entities.Pumpkin:
+			move(North)
+	else:
+		plant(Entities.Pumpkin)
+	if get_entity_type() == Entities.Pumpkin:
+			move(North)
+	else:
+		plant(Entities.Pumpkin)
+	if get_entity_type() == Entities.Pumpkin:
+			move(North)
+	else:
+		plant(Entities.Pumpkin)
+	if get_entity_type() == Entities.Pumpkin:
+			move(North)
+			#1
+		
+	move(East)
+	
+	move(North)
+	if get_entity_type() == Entities.Pumpkin:
+		move(North)
+	else:
+		plant(Entities.Pumpkin)
+	if get_entity_type() == Entities.Pumpkin:
+		move(North)
+	else :
+		plant(Entities.Pumpkin)
+	if get_entity_type() == Entities.Pumpkin:
+			move(North)
+	else:
+		plant(Entities.Pumpkin)
+	if get_entity_type() == Entities.Pumpkin:
+			move(North)
+	else:
+		plant(Entities.Pumpkin)
+	if get_entity_type() == Entities.Pumpkin:
+			move(North)
+	else:
+		plant(Entities.Pumpkin)
+	if get_entity_type() == Entities.Pumpkin:
+			move(North)
+	else:
+		plant(Entities.Pumpkin)
+	if get_entity_type() == Entities.Pumpkin:
+			move(North)
+	else:
+		plant(Entities.Pumpkin)
+	if get_entity_type() == Entities.Pumpkin:
+			move(North)
+			#1
+		
+	move(East)
+
+	move(North)
+	if get_entity_type() == Entities.Pumpkin:
+		move(North)
+	else:
+		plant(Entities.Pumpkin)
+	if get_entity_type() == Entities.Pumpkin:
+		move(North)
+	else :
+		plant(Entities.Pumpkin)
+	if get_entity_type() == Entities.Pumpkin:
+			move(North)
+	else:
+		plant(Entities.Pumpkin)
+	if get_entity_type() == Entities.Pumpkin:
+			move(North)
+	else:
+		plant(Entities.Pumpkin)
+	if get_entity_type() == Entities.Pumpkin:
+			move(North)
+	else:
+		plant(Entities.Pumpkin)
+	if get_entity_type() == Entities.Pumpkin:
+			move(North)
+	else:
+		plant(Entities.Pumpkin)
+	if get_entity_type() == Entities.Pumpkin:
+			move(North)
+	else:
+		plant(Entities.Pumpkin)
+	if get_entity_type() == Entities.Pumpkin:
+			move(North)
+			#1
+		
+	move(East)
+	
+	
+	
+	
+	move(North)
+	if get_entity_type() == Entities.Pumpkin:
+		move(North)
+	else:
+		plant(Entities.Pumpkin)
+	if get_entity_type() == Entities.Pumpkin:
+		move(North)
+	else :
+		plant(Entities.Pumpkin)
+	if get_entity_type() == Entities.Pumpkin:
+			move(North)
+	else:
+		plant(Entities.Pumpkin)
+	if get_entity_type() == Entities.Pumpkin:
+			move(North)
+	else:
+		plant(Entities.Pumpkin)
+	if get_entity_type() == Entities.Pumpkin:
+			move(North)
+	else:
+		plant(Entities.Pumpkin)
+	if get_entity_type() == Entities.Pumpkin:
+			move(North)
+	else:
+		plant(Entities.Pumpkin)
+	if get_entity_type() == Entities.Pumpkin:
+			move(North)
+	else:
+		plant(Entities.Pumpkin)
+	if get_entity_type() == Entities.Pumpkin:
+			move(North)
+			#1
+		
+	move(East)
+	
+	
+	move(North)
+	if get_entity_type() == Entities.Pumpkin:
+		move(North)
+	else:
+		plant(Entities.Pumpkin)
+	if get_entity_type() == Entities.Pumpkin:
+		move(North)
+	else :
+		plant(Entities.Pumpkin)
+	if get_entity_type() == Entities.Pumpkin:
+			move(North)
+	else:
+		plant(Entities.Pumpkin)
+	if get_entity_type() == Entities.Pumpkin:
+			move(North)
+	else:
+		plant(Entities.Pumpkin)
+	if get_entity_type() == Entities.Pumpkin:
+			move(North)
+	else:
+		plant(Entities.Pumpkin)
+	if get_entity_type() == Entities.Pumpkin:
+			move(North)
+	else:
+		plant(Entities.Pumpkin)
+	if get_entity_type() == Entities.Pumpkin:
+			move(North)
+	else:
+		plant(Entities.Pumpkin)
+	if get_entity_type() == Entities.Pumpkin:
+			move(North)
+			#1
+		
+	move(East)
+	
+	move(North)
+	if get_entity_type() == Entities.Pumpkin:
+		move(North)
+	else:
+		plant(Entities.Pumpkin)
+	if get_entity_type() == Entities.Pumpkin:
+		move(North)
+	else :
+		plant(Entities.Pumpkin)
+	if get_entity_type() == Entities.Pumpkin:
+			move(North)
+	else:
+		plant(Entities.Pumpkin)
+	if get_entity_type() == Entities.Pumpkin:
+			move(North)
+	else:
+		plant(Entities.Pumpkin)
+	if get_entity_type() == Entities.Pumpkin:
+			move(North)
+	else:
+		plant(Entities.Pumpkin)
+	if get_entity_type() == Entities.Pumpkin:
+			move(North)
+	else:
+		plant(Entities.Pumpkin)
+	if get_entity_type() == Entities.Pumpkin:
+			move(North)
+	else:
+		plant(Entities.Pumpkin)
+	if get_entity_type() == Entities.Pumpkin:
+			move(North)
+			#1
+		
+	move(East)
+
+	move(North)
+	if get_entity_type() == Entities.Pumpkin:
+		move(North)
+	else:
+		plant(Entities.Pumpkin)
+	if get_entity_type() == Entities.Pumpkin:
+		move(North)
+	else :
+		plant(Entities.Pumpkin)
+	if get_entity_type() == Entities.Pumpkin:
+			move(North)
+	else:
+		plant(Entities.Pumpkin)
+	if get_entity_type() == Entities.Pumpkin:
+			move(North)
+	else:
+		plant(Entities.Pumpkin)
+	if get_entity_type() == Entities.Pumpkin:
+			move(North)
+	else:
+		plant(Entities.Pumpkin)
+	if get_entity_type() == Entities.Pumpkin:
+			move(North)
+	else:
+		plant(Entities.Pumpkin)
+	if get_entity_type() == Entities.Pumpkin:
+			move(North)
+	else:
+		plant(Entities.Pumpkin)
+	if get_entity_type() == Entities.Pumpkin:
+			move(North)
+			#1
+		
+	move(East)
+	
+	
+	
+	move(North)
+	if get_entity_type() == Entities.Pumpkin:
+		move(North)
+	else:
+		plant(Entities.Pumpkin)
+	if get_entity_type() == Entities.Pumpkin:
+		move(North)
+	else :
+		plant(Entities.Pumpkin)
+	if get_entity_type() == Entities.Pumpkin:
+			move(North)
+	else:
+		plant(Entities.Pumpkin)
+	if get_entity_type() == Entities.Pumpkin:
+			move(North)
+	else:
+		plant(Entities.Pumpkin)
+	if get_entity_type() == Entities.Pumpkin:
+			move(North)
+	else:
+		plant(Entities.Pumpkin)
+	if get_entity_type() == Entities.Pumpkin:
+			move(North)
+	else:
+		plant(Entities.Pumpkin)
+	if get_entity_type() == Entities.Pumpkin:
+			move(North)
+	else:
+		plant(Entities.Pumpkin)
+	if get_entity_type() == Entities.Pumpkin:
+			move(North)
+			#1
+		
+	move(East)
+	
+	
+	move(North)
+	if get_entity_type() == Entities.Pumpkin:
+		move(North)
+	else:
+		plant(Entities.Pumpkin)
+	if get_entity_type() == Entities.Pumpkin:
+		move(North)
+	else :
+		plant(Entities.Pumpkin)
+	if get_entity_type() == Entities.Pumpkin:
+			move(North)
+	else:
+		plant(Entities.Pumpkin)
+	if get_entity_type() == Entities.Pumpkin:
+			move(North)
+	else:
+		plant(Entities.Pumpkin)
+	if get_entity_type() == Entities.Pumpkin:
+			move(North)
+	else:
+		plant(Entities.Pumpkin)
+	if get_entity_type() == Entities.Pumpkin:
+			move(North)
+	else:
+		plant(Entities.Pumpkin)
+	if get_entity_type() == Entities.Pumpkin:
+			move(North)
+	else:
+		plant(Entities.Pumpkin)
+	if get_entity_type() == Entities.Pumpkin:
+			move(North)
+			#1
+		
+	move(East)
+	
+	move(North)
+	if get_entity_type() == Entities.Pumpkin:
+		move(North)
+	else:
+		plant(Entities.Pumpkin)
+	if get_entity_type() == Entities.Pumpkin:
+		move(North)
+	else :
+		plant(Entities.Pumpkin)
+	if get_entity_type() == Entities.Pumpkin:
+			move(North)
+	else:
+		plant(Entities.Pumpkin)
+	if get_entity_type() == Entities.Pumpkin:
+			move(North)
+	else:
+		plant(Entities.Pumpkin)
+	if get_entity_type() == Entities.Pumpkin:
+			move(North)
+	else:
+		plant(Entities.Pumpkin)
+	if get_entity_type() == Entities.Pumpkin:
+			move(North)
+	else:
+		plant(Entities.Pumpkin)
+	if get_entity_type() == Entities.Pumpkin:
+			move(North)
+	else:
+		plant(Entities.Pumpkin)
+	if get_entity_type() == Entities.Pumpkin:
+			move(North)
+			#1
+		
+	move(East)
+
+	move(North)
+	if get_entity_type() == Entities.Pumpkin:
+		move(North)
+	else:
+		plant(Entities.Pumpkin)
+	if get_entity_type() == Entities.Pumpkin:
+		move(North)
+	else :
+		plant(Entities.Pumpkin)
+	if get_entity_type() == Entities.Pumpkin:
+			move(North)
+	else:
+		plant(Entities.Pumpkin)
+	if get_entity_type() == Entities.Pumpkin:
+			move(North)
+	else:
+		plant(Entities.Pumpkin)
+	if get_entity_type() == Entities.Pumpkin:
+			move(North)
+	else:
+		plant(Entities.Pumpkin)
+	if get_entity_type() == Entities.Pumpkin:
+			move(North)
+	else:
+		plant(Entities.Pumpkin)
+	if get_entity_type() == Entities.Pumpkin:
+			move(North)
+	else:
+		plant(Entities.Pumpkin)
+	if get_entity_type() == Entities.Pumpkin:
+			move(North)
+			#1
+		
+	move(East)
+	
+	
+	
+	
+	move(North)
+	if get_entity_type() == Entities.Pumpkin:
+		move(North)
+	else:
+		plant(Entities.Pumpkin)
+	if get_entity_type() == Entities.Pumpkin:
+		move(North)
+	else :
+		plant(Entities.Pumpkin)
+	if get_entity_type() == Entities.Pumpkin:
+			move(North)
+	else:
+		plant(Entities.Pumpkin)
+	if get_entity_type() == Entities.Pumpkin:
+			move(North)
+	else:
+		plant(Entities.Pumpkin)
+	if get_entity_type() == Entities.Pumpkin:
+			move(North)
+	else:
+		plant(Entities.Pumpkin)
+	if get_entity_type() == Entities.Pumpkin:
+			move(North)
+	else:
+		plant(Entities.Pumpkin)
+	if get_entity_type() == Entities.Pumpkin:
+			move(North)
+	else:
+		plant(Entities.Pumpkin)
+	if get_entity_type() == Entities.Pumpkin:
+			move(North)
+			#1
+		
+	move(East)
+	
+	
+	move(North)
+	if get_entity_type() == Entities.Pumpkin:
+		move(North)
+	else:
+		plant(Entities.Pumpkin)
+	if get_entity_type() == Entities.Pumpkin:
+		move(North)
+	else :
+		plant(Entities.Pumpkin)
+	if get_entity_type() == Entities.Pumpkin:
+			move(North)
+	else:
+		plant(Entities.Pumpkin)
+	if get_entity_type() == Entities.Pumpkin:
+			move(North)
+	else:
+		plant(Entities.Pumpkin)
+	if get_entity_type() == Entities.Pumpkin:
+			move(North)
+	else:
+		plant(Entities.Pumpkin)
+	if get_entity_type() == Entities.Pumpkin:
+			move(North)
+	else:
+		plant(Entities.Pumpkin)
+	if get_entity_type() == Entities.Pumpkin:
+			move(North)
+	else:
+		plant(Entities.Pumpkin)
+	if get_entity_type() == Entities.Pumpkin:
+			move(North)
+			#1
+		
+	move(East)
+	
+	move(North)
+	if get_entity_type() == Entities.Pumpkin:
+		move(North)
+	else:
+		plant(Entities.Pumpkin)
+	if get_entity_type() == Entities.Pumpkin:
+		move(North)
+	else :
+		plant(Entities.Pumpkin)
+	if get_entity_type() == Entities.Pumpkin:
+			move(North)
+	else:
+		plant(Entities.Pumpkin)
+	if get_entity_type() == Entities.Pumpkin:
+			move(North)
+	else:
+		plant(Entities.Pumpkin)
+	if get_entity_type() == Entities.Pumpkin:
+			move(North)
+	else:
+		plant(Entities.Pumpkin)
+	if get_entity_type() == Entities.Pumpkin:
+			move(North)
+	else:
+		plant(Entities.Pumpkin)
+	if get_entity_type() == Entities.Pumpkin:
+			move(North)
+	else:
+		plant(Entities.Pumpkin)
+	if get_entity_type() == Entities.Pumpkin:
+			move(North)
+			#1
+		
+	move(East)
+
+	move(North)
+	if get_entity_type() == Entities.Pumpkin:
+		move(North)
+	else:
+		plant(Entities.Pumpkin)
+	if get_entity_type() == Entities.Pumpkin:
+		move(North)
+	else :
+		plant(Entities.Pumpkin)
+	if get_entity_type() == Entities.Pumpkin:
+			move(North)
+	else:
+		plant(Entities.Pumpkin)
+	if get_entity_type() == Entities.Pumpkin:
+			move(North)
+	else:
+		plant(Entities.Pumpkin)
+	if get_entity_type() == Entities.Pumpkin:
+			move(North)
+	else:
+		plant(Entities.Pumpkin)
+	if get_entity_type() == Entities.Pumpkin:
+			move(North)
+	else:
+		plant(Entities.Pumpkin)
+	if get_entity_type() == Entities.Pumpkin:
+			move(North)
+	else:
+		plant(Entities.Pumpkin)
+	if get_entity_type() == Entities.Pumpkin:
+			move(North)
+			#1
+		
+	move(East)
+	
+	
+	harvest()
+
+	
+
+	

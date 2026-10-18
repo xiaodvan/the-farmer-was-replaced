@@ -1,0 +1,132 @@
+while True:
+		move(North)
+	# get_entity_type() == Entities.Tree:
+		move(North)
+	#:
+		plant(Entities.Tree)
+	# get_entity_type() == Entities.Tree:
+		move(North)
+
+	
+	
+	# get_entity_type() == Entities.Tree:
+		move(North)
+		# get_entity_type() == Entities.Tree:
+		move(North)
+	#:
+		plant(Entities.Tree)
+	# get_entity_type() == Entities.Tree:
+		move(North)
+			#1
+		
+		move(East)
+	
+	
+	
+	
+	# get_entity_type() == Entities.Tree:
+		move(North)
+		# get_entity_type() == Entities.Tree:
+		move(North)
+	#:
+		plant(Entities.Tree)
+	# get_entity_type() == Entities.Tree:
+		move(North)
+		# get_entity_type() == Entities.Tree:
+		move(North)
+	#:
+		plant(Entities.Tree)
+	# get_entity_type() == Entities.Tree:
+		move(North)
+			#2
+		
+		
+		
+		
+		
+		
+		
+		move(East)
+		plant(Entities.Tree)
+		move(North)
+	# get_entity_type() == Entities.Tree:
+		move(North)
+		plant(Entities.Tree)
+		# get_entity_type() == Entities.Tree:
+		move(North)
+	# :
+		plant(Entities.Tree)
+	# get_entity_type() == Entities.Tree:
+		move(North)
+	
+	# get_entity_type() == Entities.Tree:
+		move(North)
+	#:
+		plant(Entities.Tree)
+	# get_entity_type() == Entities.Tree:
+		move(North)
+		# get_entity_type() == Entities.Tree:
+		move(North)
+	#:
+		plant(Entities.Tree)
+	# get_entity_type() == Entities.Tree:
+		move(North)
+	# get_entity_type() == Entities.Tree:
+		move(North)
+		plant(Entities.Tree)
+			#3
+
+			
+		can_harvest()
+		harvest()
+		
+		move(North)
+		can_harvest()
+		harvest()
+		plant(Entities.Tree)
+		
+		move(North)
+		can_harvest()
+		harvest()
+		
+		
+		move(North)
+		can_harvest()
+		harvest()
+		plant(Entities.Tree)
+		
+		
+		
+		
+		
+		
+		
+		move(North)
+		can_harvest()
+		harvest()
+		
+		
+		move(North)
+		can_harvest()
+		harvest()
+		plant(Entities.Tree)
+		
+		move(North)
+		can_harvest()
+		harvest()
+		
+		
+		move(North)
+		can_harvest()
+		harvest()
+		plant(Entities.Tree)
+				
+		
+		
+		move(East)
+	
+	
+
+	
+
+	

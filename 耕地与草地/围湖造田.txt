@@ -1,0 +1,35 @@
+
+while True:
+ if get_ground_type() == Grounds.Grassland:
+			till()
+ else :
+		move(North)
+ if get_ground_type() == Grounds.Grassland:
+			till()
+ else :
+		move(North)                   
+ if get_ground_type() == Grounds.Grassland:
+			till()
+ else :
+		move(North)                   
+ if get_ground_type() == Grounds.Grassland:
+			till()
+ else :
+		move(North)                   
+ if get_ground_type() == Grounds.Grassland:
+			till()
+ else :
+		move(North)                   
+ if get_ground_type() == Grounds.Grassland:
+			till()
+ else :
+		move(North)                   
+ if get_ground_type() == Grounds.Grassland:
+			till()
+ else :
+		move(North)                   
+ if get_ground_type() == Grounds.Grassland:
+			till()
+ else :
+		move(North)                   
+		move(East)
