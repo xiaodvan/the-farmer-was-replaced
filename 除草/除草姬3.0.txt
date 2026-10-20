@@ -1,0 +1,11 @@
+while True:
+ move(North)
+ harvest()
+ 
+ if get_ground_type() == Grounds.Soil:
+		harvest()
+ if get_pos_y()==11:
+		move(East)
+
+		
+		

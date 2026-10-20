@@ -1,0 +1,12 @@
+while True:
+ move(North)
+ 
+ if get_ground_type() == Grounds.Soil:
+			till()
+ 
+		
+ #get_pos_x()==x
+ #get_pos_y()==y
+ if get_pos_y()==11:
+		move(East)
+

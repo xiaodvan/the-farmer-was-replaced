@@ -1,0 +1,14 @@
+
+while True:
+ move(North)
+ 
+ if get_ground_type() == Grounds.Soil:
+		plant(Entities.Pumpkin)
+ 
+ if get_pos_y()==15:
+		move(East)
+ if get_ground_type() == Entities.Dead_Pumpkin:
+		plant(Entities.Pumpkin)
+ if get_pos_y()==15 and get_pos_x()==15:
+		harvest()
+
